@@ -14,4 +14,8 @@ public class Practice {
 	{
 		System.out.println("Good night~");
 	}
+	public void happy()
+	{
+		System.out.println("have a happy");
+	}
 }
