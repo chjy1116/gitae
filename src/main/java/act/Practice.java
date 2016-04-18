@@ -9,4 +9,9 @@ public class Practice {
 	{
 		System.out.println("bye");
 	}
+	
+	public void goodDay()
+	{
+		System.out.println("Good night~");
+	}
 }
