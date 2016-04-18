@@ -5,4 +5,8 @@ public class Practice {
 	{
 		System.out.println("hello");
 	}
+	public void bye()
+	{
+		System.out.println("bye");
+	}
 }
